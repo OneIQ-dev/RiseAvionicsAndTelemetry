@@ -1,1 +1,1 @@
-# RiseAvionicsAndTelemetry
+# Rise Avionics And Telemetry
